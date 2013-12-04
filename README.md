@@ -9,7 +9,8 @@ LICENSE
 
 COMPILE TOOLS
 ===============
-* 
+* VisualAge for C 
+* GCC
 
 AUTHORS
 ===============
